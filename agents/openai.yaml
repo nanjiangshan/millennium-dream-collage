@@ -1,0 +1,4 @@
+interface:
+  display_name: "千禧梦核拼贴"
+  short_description: "打破照片原有秩序，重组成克制、完整且明显怪诞的拼贴画面"
+  default_prompt: "使用 $millennium-dream-collage 拆解并重组这张照片，围绕怪诞、反常和打破秩序生成一个克制而完整的拼贴画面。"
